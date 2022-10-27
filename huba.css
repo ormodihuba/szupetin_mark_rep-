@@ -1,0 +1,21 @@
+.all{
+    padding: 80px;
+    margin:auto;
+    width: 50%;
+    border: 2px solid  gray;
+    background-color:   AliceBlue ;
+}
+html{
+    background-color:  gray;
+}
+.Jellemzőik,.Rendszerezés,.kezelés{
+    background-color: AliceBlue ;
+    border: 2px solid  gray;
+
+}
+h1{
+    text-align: center;
+}
+.forras{
+    background-color: whitesmoke ;
+}
